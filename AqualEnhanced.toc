@@ -1,0 +1,8 @@
+## Interface: 110002
+## Title: AqualEnhanced
+## Notes: Aqual assist addon.
+## Author: Aqualuviae
+## Version: 7.0
+
+AqualEnhancedCore.lua
+AqualEnhancedQuery.lua
