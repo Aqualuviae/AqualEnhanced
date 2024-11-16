@@ -8,15 +8,6 @@ AqualEnhanced is an addon designed for World of Warcraft, aiming to enhance the 
 - **AqualEnhancedCore.lua**: The core script containing the main logic of the addon.
 - **AqualEnhancedQuery.lua**: Handles query-related functions, providing data lookup support within the addon.
 
-## Features
-
-1. **Core Functionality** (`AqualEnhancedCore.lua`)
-   - Initializes the addon and loads necessary resources.
-   - Provides core functionalities to improve players' gameplay experience.
-   
-2. **Data Query Support** (`AqualEnhancedQuery.lua`)
-   - Manages data-related queries, enabling players to easily access specific information.
-
 ## Installation Guide
 
 1. Download the `AqualEnhanced` addon.
